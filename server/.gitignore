@@ -1,0 +1,5 @@
+__pycache*
+*.sw*
+*.log
+*.py~
+hash_testing/a.*
